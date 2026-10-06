@@ -1,0 +1,6 @@
+{
+  "default": {"seed": 42, "rozmer": 5, "pocet_dni": 90, "nadrz": 2000.0, "pocet_senzorov": 6, "sum_senzora": 3.0, "pravd_dazda": 0.08, "min_zdrava": 30.0, "max_zdrava": 60.0, "pociatocna_vlhkost": 45.0, "horuca_teplota": 30.0},
+  "easy": {"nadrz": 3000.0, "pocet_senzorov": 25, "sum_senzora": 1.0},
+  "medium": {"nadrz": 1200.0, "pocet_senzorov": 6, "sum_senzora": 3.0},
+  "hard": {"nadrz": 700.0, "pocet_senzorov": 2, "sum_senzora": 8.0, "pravd_dazda": 0.03}
+}
